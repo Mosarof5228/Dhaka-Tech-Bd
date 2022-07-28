@@ -15,9 +15,13 @@
 .linkdin{
     font-size:40px;
     margin-right:15px;
+    margin-top:10px;
 }
 a{
     color:white;
+    
 }
 
-
+.bg-info-carosel-button-carosel-button{
+    background-color:#289BDE;
+}
