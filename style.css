@@ -25,3 +25,7 @@ a{
 .bg-info-carosel-button-carosel-button{
     background-color:#289BDE;
 }
+img{
+    width:100%;
+    height:100%;
+}
