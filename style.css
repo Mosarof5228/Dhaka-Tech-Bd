@@ -35,8 +35,15 @@ img{
     margin:15px;
 }
 .imgWithbo{
-    height:120px;
+    height:140px;
     width:180px;
     
+}
+.bg-warning-gentle{
+    background-color:#F4FAFD;
+}
+.imgWithinded{
+    height:50px;
+    width:150px;
 }
 
